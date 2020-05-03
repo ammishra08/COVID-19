@@ -1,0 +1,322 @@
+{
+  "success": true,
+  "data": [
+    {
+      "day": "2020-03-12",
+      "totalSamplesTested": 6500,
+      "totalIndividualsTested": 5900,
+      "totalPositiveCases": 78,
+      "source": "Press_Release_ICMR_13March2020.pdf"
+    },
+    {
+      "day": "2020-03-18",
+      "totalSamplesTested": 13125,
+      "totalIndividualsTested": 12235,
+      "totalPositiveCases": 150,
+      "source": "ICMR_website_update_18March_6PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-19",
+      "totalSamplesTested": 14175,
+      "totalIndividualsTested": 13285,
+      "totalPositiveCases": 182,
+      "source": "ICMR_website_update_19March_6PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-20",
+      "totalSamplesTested": 15404,
+      "totalIndividualsTested": 14514,
+      "totalPositiveCases": 236,
+      "source": "ICMR_website_update_20March_6PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-21",
+      "totalSamplesTested": 16911,
+      "totalIndividualsTested": 16021,
+      "totalPositiveCases": 315,
+      "source": "ICMR_website_update_21March_6PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-22",
+      "totalSamplesTested": 18127,
+      "totalIndividualsTested": 17237,
+      "totalPositiveCases": 396,
+      "source": "ICMR_website_update_22March_6PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-23",
+      "totalSamplesTested": 20707,
+      "totalIndividualsTested": 19817,
+      "totalPositiveCases": 471,
+      "source": "ICMR_website_update_23March_8PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-24",
+      "totalSamplesTested": 22694,
+      "totalIndividualsTested": 21804,
+      "totalPositiveCases": 536,
+      "source": "ICMR_website_update_24March_8PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-25",
+      "totalSamplesTested": 25144,
+      "totalIndividualsTested": 24254,
+      "totalPositiveCases": 581,
+      "source": "ICMR_website_update_25March_8PM_IST.pdf"
+    },
+    {
+      "day": "2020-03-26",
+      "totalSamplesTested": null,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": ""
+    },
+    {
+      "day": "2020-03-27",
+      "totalSamplesTested": 27688,
+      "totalIndividualsTested": 26798,
+      "totalPositiveCases": 691,
+      "source": "ICMR_website_update_27March_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-03-29",
+      "totalSamplesTested": 38442,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "MoH Press conference with Dr. Raman G"
+    },
+    {
+      "day": "2020-03-30",
+      "totalSamplesTested": 42788,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "MoH Press conference with Dr. Raman G"
+    },
+    {
+      "day": "2020-03-31",
+      "totalSamplesTested": 47951,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 1637,
+      "source": "https://twitter.com/PTI_News/status/1245308976440340482"
+    },
+    {
+      "day": "2020-04-02",
+      "totalSamplesTested": 55851,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 2056,
+      "source": "ICMR_testing_update_02April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-03",
+      "totalSamplesTested": 69245,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 2653,
+      "source": "ICMR_testing_update_03April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-04",
+      "totalSamplesTested": 79950,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 3113,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_04April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-05",
+      "totalSamplesTested": 89534,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 3554,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_05April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-06",
+      "totalSamplesTested": 101068,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 4135,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_06April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-07",
+      "totalSamplesTested": 114015,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 4616,
+      "source": "ICMR_testing_update_07April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-08",
+      "totalSamplesTested": 127919,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": 5114,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_08April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-09",
+      "totalSamplesTested": 144910,
+      "totalIndividualsTested": 130792,
+      "totalPositiveCases": 5705,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_09April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-10",
+      "totalSamplesTested": 161330,
+      "totalIndividualsTested": 147034,
+      "totalPositiveCases": 6872,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_10April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-11",
+      "totalSamplesTested": 179374,
+      "totalIndividualsTested": 164773,
+      "totalPositiveCases": 7703,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_11April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-12",
+      "totalSamplesTested": 195748,
+      "totalIndividualsTested": 181028,
+      "totalPositiveCases": 8312,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_12April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-13",
+      "totalSamplesTested": 217554,
+      "totalIndividualsTested": 202551,
+      "totalPositiveCases": 9341,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_13April_9PM_IST_0.pdf"
+    },
+    {
+      "day": "2020-04-14",
+      "totalSamplesTested": 244893,
+      "totalIndividualsTested": 229426,
+      "totalPositiveCases": 10307,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_14April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-15",
+      "totalSamplesTested": 274599,
+      "totalIndividualsTested": 258730,
+      "totalPositiveCases": 11297,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_15April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-16",
+      "totalSamplesTested": 302956,
+      "totalIndividualsTested": 286714,
+      "totalPositiveCases": 12,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_16April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-17",
+      "totalSamplesTested": 335123,
+      "totalIndividualsTested": 318449,
+      "totalPositiveCases": 14098,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_17April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-18",
+      "totalSamplesTested": 372123,
+      "totalIndividualsTested": 354969,
+      "totalPositiveCases": 16365,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_18April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-19",
+      "totalSamplesTested": 401586,
+      "totalIndividualsTested": 383985,
+      "totalPositiveCases": 17615,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_19April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-20",
+      "totalSamplesTested": null,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": ""
+    },
+    {
+      "day": "2020-04-21",
+      "totalSamplesTested": 462621,
+      "totalIndividualsTested": 447812,
+      "totalPositiveCases": null,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_21April_9PM_IST.pdf"
+    },
+    {
+      "day": "2020-04-22",
+      "totalSamplesTested": null,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": ""
+    },
+    {
+      "day": "2020-04-23",
+      "totalSamplesTested": 500542,
+      "totalIndividualsTested": 485172,
+      "totalPositiveCases": 21797,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_23Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-04-24",
+      "totalSamplesTested": 541789,
+      "totalIndividualsTested": 525667,
+      "totalPositiveCases": 23502,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_24Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-04-25",
+      "totalSamplesTested": 579957,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-04-26",
+      "totalSamplesTested": 625309,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_26Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-04-27",
+      "totalSamplesTested": 665819,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_27Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-04-28",
+      "totalSamplesTested": 716733,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://www.icmr.nic.in/pdf/covid/update/ICMR_testing_update_28Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-04-29",
+      "totalSamplesTested": 770764,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_29Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-04-30",
+      "totalSamplesTested": 830201,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_30Apr2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-05-01",
+      "totalSamplesTested": 902654,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_01May2020_9AM_IST.pdf"
+    },
+    {
+      "day": "2020-05-02",
+      "totalSamplesTested": 976363,
+      "totalIndividualsTested": null,
+      "totalPositiveCases": null,
+      "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02May2020_9AM_IST.pdf"
+    }
+  ],
+  "lastRefreshed": "2020-05-03T03:20:01.488Z",
+  "lastOriginUpdate": "2020-05-02T03:30:00.000Z"
+}
